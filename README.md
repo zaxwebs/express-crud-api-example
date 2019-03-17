@@ -1,4 +1,4 @@
-# express-crud-api-example
+# Express CRUD API Example
 A demo app with RESTful  CRUD API implementation.
 This app also demos routing in Express
 
