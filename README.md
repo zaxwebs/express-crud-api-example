@@ -10,4 +10,4 @@ Runs nodemon to monitor server.js changes and restarts on an update.
 ```
 npm start
 ```
-Starts the server
+Starts the server.
